@@ -1,6 +1,8 @@
 pymupdf
 sentence-transformers
 faiss-cpu
-tqdm
 numpy
-python-dotenv
+langchain
+langchain-core
+langchain-ollama
+streamlit
